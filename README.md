@@ -1,4 +1,4 @@
-learnjs
+jogo
 =======
 
-Aprendendo JavaScript
+Meu primeiro joguinho
